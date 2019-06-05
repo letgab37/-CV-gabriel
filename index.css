@@ -1,7 +1,7 @@
-body{
-	background-color:black;
+.divbg{
+	
 	background-image:
-	https://raw.githubusercontent.com/letgab37/CV-gabriel/master/matricecode.jpg;
+	url ('https://raw.githubusercontent.com/letgab37/CV-gabriel/master/matricecode.jpg');
 }
 
 
