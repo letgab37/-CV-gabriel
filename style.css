@@ -8,11 +8,12 @@ body{
 
 
 .fondcv{
-	backgroud-color: white;
+	
 	width: 980px;
 	margin: auto;
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-ser;
 	font-size: 16px;
+	backgroud-color: white;
 }
 
 .coord{
