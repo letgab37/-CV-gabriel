@@ -1,7 +1,10 @@
 html{
 	
-	background-image: url ("https://raw.githubusercontent.com/letgab37/CV-gabriel/master/matricecode.jpg");	
-	
+	background: url ("https://raw.githubusercontent.com/letgab37/CV-gabriel/master/matricecode.jpg") no-repeat center center fixed;	
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 	}
 	
 
