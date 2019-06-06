@@ -13,6 +13,7 @@ body{
 	margin: auto;
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
 	font-size: 16px;
+	box-shadow: 2px 3px 4 px black;
 	border: 5px solid #3388CC;
 	backgroud-color: white;
 }
