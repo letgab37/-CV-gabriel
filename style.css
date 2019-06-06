@@ -1,10 +1,7 @@
-html{
+body{
 	
-	background: url ("https://www.lepoint.fr/images/2017/10/27/10978762lpw-10979123-article-jpg_4669854_1250x625.jpg") no-repeat center center fixed;	
-	-webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+	background-color : moccasin;
+	border-radius: 25% 10%;
 	}
 	
 
@@ -18,7 +15,7 @@ html{
 	font-size: 16px;
 	box-shadow: 2px 3px 4 px black;
 	border: 5px solid #3388CC;
-	background-color: red;
+	background-color: white;
 }
 
 .coord{
