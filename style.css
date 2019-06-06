@@ -1,6 +1,6 @@
-divbg{
-	//background-color: green;
-	background-image: url ('https://raw.githubusercontent.com/letgab37/CV-gabriel/master/matricecode.jpg');	
+.divbg{
+	background-color: yellow;
+	background-image: url ("https://raw.githubusercontent.com/letgab37/CV-gabriel/master/matricecode.jpg");	
 	background-position :top right;
 	}
 	
