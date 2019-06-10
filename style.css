@@ -36,7 +36,7 @@
 
 .part{
 	
-margin-bottom : 160 px;
+margin-bottom : 70 px;
 text-align: justify;
 
 
@@ -54,7 +54,7 @@ font-size: 20px;
 .rightpart{
 	
 margin-left: 150px;
-margin-top: 10 px;
+margin-top: 55 px;
 
 }
 
@@ -79,5 +79,5 @@ font-size: 20px;
 
 #formaleft p {
 	
-	 margin-bottom : 100px;
+	 margin-bottom : 150px;
 }
