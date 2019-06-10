@@ -34,7 +34,7 @@
 }
 
 
-.part{
+.part1{
 	
 margin-top : 70 px;
 text-align: justify;
@@ -42,7 +42,7 @@ text-align: justify;
 
 }
 
-.leftpart{
+.leftpart1{
 	
 margin-top : 0 px;
 float: left;
@@ -51,7 +51,7 @@ font-size: 20px;
 
 }
 
-.rightpart{
+.rightpart1{
 margin-top : 30 px;
 padding-top :30 px;
 margin-left: 170px;
