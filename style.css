@@ -45,14 +45,14 @@ text-align: justify;
 .leftpart1{
 	
 
-float: left;
+
 font-weight: bold;
 font-size: 15px;
 
 }
 
 .rightpart1{
-
+float: right;
 margin-left: 170px;
 
 
