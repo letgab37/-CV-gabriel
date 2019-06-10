@@ -33,3 +33,23 @@
 	float: right;
 }
 
+
+.part{
+	
+margin-bottom : 70 px;
+
+
+}
+
+.leftpart{
+	
+
+float: left;
+
+}
+
+.rightpart{
+	
+margin-left: 150px;
+
+}
