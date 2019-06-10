@@ -101,7 +101,7 @@ font-size: 23px;
 	 
 }
 
-.part1{
+.part2{
 	
 
 text-align: justify;
@@ -115,6 +115,7 @@ text-align: justify;
 float: left;
 font-weight: bold;
 font-size: 20px;
+margin-left: 20px;
 
 }
 
@@ -122,6 +123,7 @@ font-size: 20px;
 
 margin-top :42px;
 margin-left: 170px;
+margin-right: 10px;
 }
 
 #expleft p {
