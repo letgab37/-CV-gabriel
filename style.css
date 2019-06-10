@@ -69,6 +69,7 @@ h2{
 font-size: 28px;
 color: #3388BB;
 border-bottom: 3px solid #3388DD;
+margin-left: 20px;
 
 
 }
@@ -161,5 +162,13 @@ margin-top: 125px;
 strong {
 
 	font-size: 22px;
+	
+}
+
+
+#infos {
+
+margin-left: 20px;
+font-size: 20px;
 	
 }
