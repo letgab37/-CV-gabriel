@@ -54,6 +54,7 @@ font-size: 20px;
 .rightpart{
 	
 margin-left: 150px;
+margin-top: 37 px;
 
 }
 
@@ -73,4 +74,10 @@ font-weight:bold;
 font-size: 20px;
 
 
+}
+
+
+#formaleft p {
+	
+	 margin-bottom : 37px;
 }
