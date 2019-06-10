@@ -45,7 +45,7 @@ text-align: justify;
 .leftpart{
 	
 
-
+float: left;
 font-weight: bold;
 font-size: 20px;
 
@@ -54,7 +54,7 @@ font-size: 20px;
 .rightpart{
 	
 margin-left: 170px;
-margin-top: 15 px;
+
 
 }
 
