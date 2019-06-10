@@ -95,3 +95,26 @@ font-size: 23px;
 	
 	 
 }
+
+.part1{
+	
+
+text-align: justify;
+
+
+}
+
+.leftpart2{
+	
+
+float: left;
+font-weight: bold;
+font-size: 20px;
+
+}
+
+.rightpart2{
+
+margin-top :42px;
+margin-left: 170px;
+
