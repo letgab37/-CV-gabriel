@@ -139,7 +139,7 @@ width: 980px;
 .pres2
 {
 	color: white;
-	webkit-text-stroke-width: 0.4px;
+	webkit-text-stroke-width: 0.5px;
  	-webkit-text-stroke-color: yellow;
 }
 	
@@ -244,7 +244,7 @@ font-size: 23px;
 }
 
 #formaleft3 p {
-	margin-top: 175px;
+	margin-top: 174px;
 	
 	 
 }
