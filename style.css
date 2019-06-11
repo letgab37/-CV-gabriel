@@ -110,7 +110,7 @@ nav ul li a:hover:before
 .divbg{
 	width: 100%;
 	height: 100vh;
-	box-sizing: border-box
+	/*box-sizing: border-box*/
 	background-color :moccasin;
 	/*background: url('https://raw.githubusercontent.com/letgab37/CV-gabriel/master/matricecode.jpg');*/
 }
