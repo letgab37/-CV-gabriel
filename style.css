@@ -1,3 +1,17 @@
+.nav{
+	background: black;
+	border-bottom: 10px solid #37f;
+	box-shadow: 3px 0px 5px grey;
+	text-align: center;
+	padding: 1px;
+	
+	
+	
+}
+
+
+
+
 body{
 	
 	background-color :moccasin;
