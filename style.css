@@ -17,21 +17,11 @@ body
 	
 	/*box-shadow: 3px 0px 5px grey;*/
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
-	position: fixed;
-	top:0;
-	left:0;
 	
-	height: 63px;
-	background-color: blue;
-	opacity: 0.6;
-	filter: alpha(opacity=80);
-	/*background: rgba (0,0,0,0.6);*/
-	padding: 0 100px;
-	box-sizing: border-box;
 }
 
 
-/*nav{
+nav{
 	position: fixed;
 	top:0;
 	left:0;
@@ -44,7 +34,7 @@ body
 	padding: 0 100px;
 	box-sizing: border-box;
 	
-}*/
+}
 
 nav .bandeau{
 
