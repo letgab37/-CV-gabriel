@@ -13,8 +13,8 @@ div:target {
 	/*box-shadow: 3px 0px 5px grey;*/
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
 	position: fixed;
-	top:0;
-	left:0;
+	/*top:0;
+	left:0;*/
 	width: 100%;
 	height: 63px;
 	background-color: blue;
