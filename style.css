@@ -5,7 +5,7 @@
 	background-color: blue;
 	box-shadow: 3px 0px 5px grey;
 	opacity: 0.3;
-	filter: alpha(opacity=30);
+	filter: alpha(opacity=80);
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
 }
 
@@ -18,7 +18,7 @@ nav{
 	height: 70px;
 	background-color: blue;
 	opacity: 0.3;
-	filter: alpha(opacity=60);
+	filter: alpha(opacity=80);
 	background: rgba (0,0,0,0.6);
 	padding: 0 100px;
 	box-sizing: border-box;
