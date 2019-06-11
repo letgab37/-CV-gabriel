@@ -319,39 +319,23 @@ color: 	  #FFD700;
 {
 	width: 980px;
 	margin: auto;
-	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
-	font-size: 18px;
-	text-align: justify;
+	
 }
 
-.hobbies1
+.hp1
 {
 	float: left;
-	margin-bottom: 45px;
-	margin-right: 20px;
+	
 	
 }
 
 .hp2
 {
-	vertical-align: middle;
+	margin-right: 20px;
+	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+	font-size: 18px;
+	text-align: justify;
 }
 
-/*#ho1
-{
-	margin-bottom: 45px;
-
-#ho2
-{
-	margin-top: 50px;
-	margin-left: 350px;
-	
-}
-
-.hb2
-{
-	margin-top: 40px;
-	
-}*/
 
 
