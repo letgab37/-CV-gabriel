@@ -61,7 +61,7 @@ nav ul li{
 
 nav ul li a {
 	
-	position: absolute;
+	position: relative;
 	display: block;
 	height: 70px;
 	line-height: 70px;
