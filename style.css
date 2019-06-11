@@ -1,4 +1,4 @@
-.divbg{
+body{
 	
 	background-color :moccasin;
 	linear-gradient(moccasin, green);
@@ -16,11 +16,12 @@
 	margin: auto;
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
 	font-size: 16px;
-	
-	
-	background-color: white;
 	border: 5px solid #3388CC;
+	border-radius: 10px;
 	box-shadow: 2px 3px 4 px black;
+	background-color: white;
+	
+	
 }
 
 .coord{
