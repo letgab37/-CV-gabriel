@@ -9,7 +9,7 @@
 ul li{
 	display: inline-block;
 	list-style-type: none;
-	
+	padding: 30px 40px;
 	font-size: 24px;
 	color: moccasin;
 	font-family: sans-serif;
