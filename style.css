@@ -325,13 +325,16 @@ color: 	  #FFD700;
 .hp1
 {
 	float: left;
+	border: 1px solid #CCC;
+	box-shadow: 0px 0px 17px #BBB
 	
 	
 }
 
 .hp2
 {
-	margin-right: 20px;
+	margin-top: 60px;
+	margin-left: 20px;
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
 	font-size: 18px;
 	text-align: justify;
