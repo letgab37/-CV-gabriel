@@ -14,7 +14,7 @@ div:target {
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
 	position: fixed;
 	top:0;
-	/*left:0;*/
+	left:0;
 	
 	height: 63px;
 	background-color: blue;
@@ -113,10 +113,16 @@ nav ul li a:hover:before
 
 
 .divbg{
-	background-size: cover;
-	box-sizing: border-box;
+	/*background-size: cover;
+	box-sizing: border-box;*/
+	position: absolute;
+    left: 50px;
+    width: calc(100% - 100px);
+    border: 1px solid black;
+    
+    padding: 5px;
 	background-color :moccasin;
-	border-top: 10px solid #37f;
+	/*border-top: 10px solid #37f;*/
 	/*box-shadow: 3px 0px 5px grey;*/
 	/*linear-gradient(moccasin, green);*/
 	
