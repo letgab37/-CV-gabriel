@@ -127,9 +127,9 @@ width: 980px;
 	margin-bottom: 30px;
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
 	font-size: 20px;
-	color: white;
+	color: black;
 	-webkit-text-stroke-width: 0.5px;
- 	-webkit-text-stroke-color: black;
+ 	-webkit-text-stroke-color: white;
 	
 }
 	
