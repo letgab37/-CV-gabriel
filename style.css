@@ -6,7 +6,7 @@ div:target {
 
 .head
 {
-	
+	width: 100%;
 	height: 63px;
 	background-color: blue;
 	box-shadow: 3px 0px 5px grey;
@@ -102,7 +102,7 @@ nav ul li a:hover:before
 
 
 .divbg{
-	
+	width: 100%;
 	background-color :moccasin;
 	border-top: 10px solid #37f;
 	/*box-shadow: 3px 0px 5px grey;*/
