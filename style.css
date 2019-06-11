@@ -85,7 +85,7 @@ nav ul li a:hover:before
 .pres{
 	
 width: 980px;
-	
+	margin:auto;
 	text-align: center;
 	text-align: justify;
 	margin-bottom: 30px;
@@ -94,8 +94,8 @@ width: 980px;
 	
 }
 
-.divbg{
-	padding: 100px;
+.fondcv{
+	
 	background-color :moccasin;
 	border-top: 10px solid #37f;
 	box-shadow: 3px 0px 5px grey;
