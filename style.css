@@ -330,7 +330,7 @@ color: 	  #FFD700;
 	float: left;
 	border: 1px solid #CCC;
 	box-shadow: 0px 0px 17px #BBB
-		vertical-align: middle;
+		
 	
 	
 }
@@ -338,7 +338,7 @@ color: 	  #FFD700;
 .hp2
 {
 	
-	vertical-align: middle;
+	text-align: center;
 	
 }
 
