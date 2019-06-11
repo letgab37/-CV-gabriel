@@ -348,7 +348,7 @@ color: 	   #ff7043;
 
 .hp1
 {
-	display: flex;
+	display: table-row;
 	justify-content: center;
 	align-items: center;
 	margin-bottom: 10px;
