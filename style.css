@@ -3,13 +3,13 @@
 	border-bottom: 10px solid #37f;
 	box-shadow: 3px 0px 5px grey;
 	text-align: center;
-	padding: 1px;
+	
 }
 
 ul li{
 	display: inline-block;
 	list-style-type: none;
-	padding: 30px 40px;
+	
 	font-size: 24px;
 	color: moccasin;
 	font-family: sans-serif;
