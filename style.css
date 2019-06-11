@@ -138,7 +138,8 @@ width: 980px;
 
 .pres2
 {
-	webkit-text-stroke-width: 0.5px;
+	color: white;
+	webkit-text-stroke-width: 0.4px;
  	-webkit-text-stroke-color: yellow;
 }
 	
@@ -197,7 +198,7 @@ float: left;
 font-weight: bold;
 font-size: 20px;
 margin-left: 20px;
-margin-top: -20px;
+margin-top: -18px;
 
 }
 
