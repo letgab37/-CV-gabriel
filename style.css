@@ -349,7 +349,7 @@ color: 	   #ff7043;
 .hp1
 {
 	display: flex;
-	/*justify-content: space-between;*/
+	justify-content: center;
 	align-items: center;
 	margin-bottom: 10px;
 	border: 1px solid #CCC;
