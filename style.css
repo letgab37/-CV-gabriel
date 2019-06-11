@@ -12,7 +12,7 @@ body
 .head
 {
 	width: 100%;
-	height: 40px;
+	height: 44px;
 	/*background-color: green;*/
 	
 	/*box-shadow: 3px 0px 5px grey;*/
@@ -129,8 +129,8 @@ width: 980px;
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
 	font-size: 18px;
 	color: white;
-	-webkit-text-stroke-width: 0.5px;
- 	-webkit-text-stroke-color: yellow;
+	-webkit-text-stroke-width: 0.3px;
+ 	-webkit-text-stroke-color: black;
 	
 }
 	
