@@ -137,8 +137,8 @@ width: 980px;
 
 
 .fondcv{
-	position: absolute;
-	z-index: -2;
+	position: relative;
+	z-index: -1;
 	width: 980px;
 	margin: auto;
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
