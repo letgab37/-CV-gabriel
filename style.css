@@ -3,6 +3,11 @@ div:target {
     margin-top: -7em; 
 }
 
+body
+{
+	margin: 0;
+	padding: 0;
+}
 
 .head
 {
