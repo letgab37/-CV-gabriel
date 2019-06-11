@@ -116,11 +116,11 @@ nav ul li a:hover:before
 	/*background-size: cover;
 	box-sizing: border-box;*/
 	position: absolute;
-    left: 50px;
+   /* left: 50px;
     width: calc(100% - 100px);
     border: 1px solid black;
     
-    padding: 5px;
+    padding: 5px;*/
 	background-color :moccasin;
 	/*border-top: 10px solid #37f;*/
 	/*box-shadow: 3px 0px 5px grey;*/
