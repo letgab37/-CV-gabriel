@@ -17,7 +17,7 @@ ul li{
 }
 
 ul li: hover{
-	background: #37f;
+	background: black;
 	font-weight: bold;
 }
 
