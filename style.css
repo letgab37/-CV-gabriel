@@ -1,7 +1,16 @@
+.head
+{
+	position: fixed;
+	height: 63px;
+	background-color: blue;
+	box-shadow: 3px 0px 5px grey;
+	opacity: 0.3;
+	filter: alpha(opacity=30);
+	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+}
 
 
-
-.head{
+nav{
 	position: fixed;
 	top:0;
 	left:0;
