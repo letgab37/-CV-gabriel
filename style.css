@@ -25,8 +25,8 @@ nav{
 	opacity: 0.6;
 	filter: alpha(opacity=80);
 	background: rgba (0,0,0,0.6);
-	padding: 0 100px;
-	/*box-sizing: border-box;*/
+	/*padding: 0 100px;*/
+	box-sizing: border-box;
 	
 }
 
