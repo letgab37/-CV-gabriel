@@ -348,12 +348,13 @@ color: 	   #ff7043;
 
 .hp1
 {
-	display: table-row;
+	display: flex;
 	justify-content: center;
 	align-items: center;
 	margin-bottom: 10px;
 	border: 1px solid #CCC;
 	box-shadow: 0px 0px 17px #BBB
+	margin-top: 2px;
 		
 	
 	
