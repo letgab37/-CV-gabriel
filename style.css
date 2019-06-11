@@ -314,3 +314,32 @@ color: 	  #FFD700;
 	color: white;
 	font-size: 20px;
 }
+
+.part4
+{
+	width: 980px;
+	margin: auto;
+	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+	font-size: 18px;
+	text-align: justify;
+}
+
+.hp2
+{
+	float: left;
+}
+
+.hb2
+{
+	float: left;
+}
+
+.hp1
+{
+	margin-right: 20px;
+}
+
+.hb1
+{
+	margin-right: 20px;
+}
