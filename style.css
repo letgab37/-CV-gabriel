@@ -113,7 +113,7 @@ nav ul li a:hover:before
 
 
 .divbg{
-	
+	top: -63;
 	width: cover;
 	background-color :moccasin;
 	border-top: 10px solid #37f;
