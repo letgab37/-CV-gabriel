@@ -318,7 +318,7 @@ color: 	  #FFD700;
 .part4
 {
 	width: 980px;
-	/*margin: auto;*/
+	margin: auto;
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
 	font-size: 18px;
 	text-align: justify;
@@ -330,14 +330,15 @@ color: 	  #FFD700;
 	float: left;
 	border: 1px solid #CCC;
 	box-shadow: 0px 0px 17px #BBB
+		vertical-align: middle;
 	
 	
 }
 
 .hp2
 {
-	margin-top: 60px;
-	margin-left: 20px;
+	
+	vertical-align: middle;
 	
 }
 
