@@ -1,6 +1,7 @@
 body{
 	
 	background-color :moccasin;
+	background-image: url("../../media/examples/lizard.png");
 	linear-gradient(moccasin, green);
 	
 	
