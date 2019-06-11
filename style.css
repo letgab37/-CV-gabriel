@@ -87,27 +87,6 @@ nav ul li a:hover:before
 	transform: scaleX(1);
 }
 
-
-
-
-ul li{
-	display: inline-block;
-	list-style-type: none;
-	padding: 30px 40px;
-	font-size: 24px;
-	color: moccasin;
-	font-family: sans-serif;
-	transition: .5s;
-}
-
-ul li: hover{
-	background: #37f;
-	font-weight: bold;
-}
-
-
-
-
 .pres{
 	
 width: 980px;
