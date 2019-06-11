@@ -147,6 +147,8 @@ width: 980px;
 	border-radius: 10px;
 	box-shadow: 2px 3px 4 px black;
 	background-color: white;
+	opacity: 0.75;
+	filter: alpha(opacity=75);
 	
 	
 }
@@ -197,8 +199,8 @@ margin-right: 20px;
 h2{
 	
 font-size: 28px;
-color: #3388BB;
-border-bottom: 3px solid #3388DD;
+color:  #d35400 ;
+border-bottom: 3px solid  #edbb99;
 margin-left: 20px;
 margin-right: 20px;
 
