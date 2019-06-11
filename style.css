@@ -115,7 +115,7 @@ nav ul li a:hover:before
 .divbg{
 	/*background-size: cover;
 	box-sizing: border-box;*/
-	position: absolute;
+	width: 100%;
    /* left: 50px;
     width: calc(100% - 100px);
     border: 1px solid black;
