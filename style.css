@@ -82,6 +82,19 @@ nav ul li a:hover:before
 	transform: scaleX(1);
 }
 
+
+
+.divbg{
+	
+	background-color :moccasin;
+	border-top: 10px solid #37f;
+	box-shadow: 3px 0px 5px grey;
+	linear-gradient(moccasin, green);
+	
+	
+	
+	}
+
 .pres{
 	
 width: 980px;
@@ -93,17 +106,6 @@ width: 980px;
 	font-size: 16px;
 	
 }
-
-.fondcv{
-	
-	background-color :moccasin;
-	border-top: 10px solid #37f;
-	box-shadow: 3px 0px 5px grey;
-	linear-gradient(moccasin, green);
-	
-	
-	
-	}
 	
 
 
