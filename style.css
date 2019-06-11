@@ -1,7 +1,8 @@
 .head
 {
-	height: 65px;
+	height: 64px;
 	background-color: blue;
+	box-shadow: 3px 0px 5px grey;
 	opacity: 0.3;
 	filter: alpha(opacity=30);
 }
