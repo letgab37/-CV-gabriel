@@ -158,10 +158,10 @@ width: 980px;
 	border-radius: 10px;
 	box-shadow: 2px 3px 4 px black;
 	background-color: white;
-	opacity: 0.75;
+	/*opacity: 0.75;
 	-moz-opacity: 0.75;
 	-khtml-opacity: 0.75;
-	filter: alpha(opacity=75);
+	filter: alpha(opacity=75);*/
 	
 	
 }
