@@ -5,6 +5,7 @@ div:target {
 
 body
 {
+	z-index: 1;
 	margin: 0;
 	padding: 0;
 }
@@ -22,7 +23,7 @@ body
 
 nav{
 	position: fixed;
-	z-index: 300;
+	z-index: 2;
 	top:0;
 	left:0;
 	width: 100%;
