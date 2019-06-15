@@ -108,8 +108,8 @@ nav ul li a:hover:before
 
 
 .divbg{
-	/*position: relative;
-	z-index: -3;*/
+	position: relative;
+	/*z-index: -3;*/
 	margin: 0;
 	padding: 0;
 	/*width: 100%;*/
@@ -148,8 +148,8 @@ width: 980px;
 
 
 .fondcv{
-	/*position: relative;
-	z-index: -2;*/
+	position: relative;
+	z-index: 100;
 	width: 980px;
 	margin: auto;
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
@@ -338,8 +338,8 @@ color: 	   #ff7043;
 
 .part4
 {
-	/*position relative
-	z-index: -1;*/
+	position relative
+	z-index: 200;
 	width: 980px;
 	margin: auto;
 	padding-top: 15px;
