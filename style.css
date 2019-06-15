@@ -108,12 +108,12 @@ nav ul li a:hover:before
 
 
 .divbg{
-	position: relative;
-	z-index: -3;
+	/*position: relative;
+	z-index: -3;*/
 	margin: 0;
 	padding: 0;
 	/*width: 100%;*/
-	height: 450vh;
+	height: 420vh;
 	box-sizing: border-box*/
 	background-color :moccasin;
 	background: url('https://raw.githubusercontent.com/letgab37/CV-gabriel/master/rd2.jpg');
@@ -148,8 +148,8 @@ width: 980px;
 
 
 .fondcv{
-	position: relative;
-	z-index: -2;
+	/*position: relative;
+	z-index: -2;*/
 	width: 980px;
 	margin: auto;
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
