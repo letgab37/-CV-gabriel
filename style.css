@@ -92,7 +92,7 @@ nav ul li a:before
 	height: 100%;
 	background: #fff;
 	transform-origin: right;
-	z-index: -1;
+	/*z-index: -1;
 	transform: scaleX(0);
 	transition: transform .5s;
 
@@ -346,7 +346,7 @@ color: 	   #ff7043;
 	color: white;
 	
 }
-*/
+
 .hp1
 {
 	position relative
