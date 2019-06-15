@@ -108,8 +108,8 @@ nav ul li a:hover:before
 
 
 .divbg{
-	position: relative;
-	z-index: -1;
+	/*position: relative;
+	z-index: -1;*/
 	margin: 0;
 	padding: 0;
 	/*width: 100%;*/
