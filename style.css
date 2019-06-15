@@ -149,7 +149,7 @@ width: 980px;
 
 .fondcv{
 	position: relative;
-	z-index: -2;
+	z-index: -3;
 	width: 980px;
 	margin: auto;
 	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
@@ -339,7 +339,7 @@ color: 	   #ff7043;
 .part4
 {
 	position absolute
-	z-index: -3;
+	z-index: -2;
 	width: 980px;
 	margin: auto;
 	padding-top: 15px;
