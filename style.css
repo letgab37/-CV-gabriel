@@ -338,6 +338,8 @@ color: 	   #ff7043;
 
 .part4
 {
+	position relative
+	z-index: 1;
 	width: 980px;
 	margin: auto;
 	padding-top: 15px;
@@ -347,11 +349,10 @@ color: 	   #ff7043;
 	color: white;
 	
 }
-*/
+
 .hp1
 {
-	position relative
-	z-index: 1;
+	
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
