@@ -79,6 +79,7 @@ nav ul li a {
 nav ul li a:hover
 {
 	color: #262626; 
+	z-index: 1;
 
 }
 
@@ -108,7 +109,7 @@ nav ul li a:hover:before
 
 .divbg{
 	position: relative;
-	/*z-index: -2;*/
+	z-index: -2;
 	margin: 0;
 	padding: 0;
 	/*width: 100%;*/
