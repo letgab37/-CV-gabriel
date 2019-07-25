@@ -114,11 +114,13 @@ nav ul li a:hover:before
 	/*z-index: -3;*/
 	margin: 0;
 	padding: 0;
+	padding-bottom: 200px;
 	/*width: 100%;*/
-	height: 410vh;
-	box-sizing: border-box*/
+	/*height: 410vh;*/
+	box-sizing: border-box
 	background-color :moccasin;
-	background: url('https://raw.githubusercontent.com/letgab37/CV-gabriel/master/rd2.jpg');
+	background: url('rd2.jpg') repeat ;
+	
 	
 }
 
